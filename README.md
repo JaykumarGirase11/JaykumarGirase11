@@ -39,7 +39,7 @@
 
 ## &nbsp;⚡ &nbsp;About Me
 
-I'm a final-year undergraduate and full-stack software engineer who builds production-ready systems, ships open-source projects, and consistently competes among the **top teams at national-level hackathons**.
+I'm a B.Tech graduate and full-stack software engineer who builds production-ready systems, ships open-source projects, and consistently competes among the **top teams at national-level hackathons**.
 
 My work spans AI-powered platforms, scalable backend architectures, and real-time web applications. I don't just write code — I engineer systems that solve real problems at scale.
 
